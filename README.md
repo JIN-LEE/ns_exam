@@ -1,4 +1,4 @@
-# neural-style
+# neural-style (JIN-LEE/ns_exam)
 
 An implementation of [neural style][paper] in TensorFlow.
 
